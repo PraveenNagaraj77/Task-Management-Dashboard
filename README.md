@@ -118,5 +118,5 @@ To run the project locally, follow these steps:
 
 ### 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/task-management-dashboard.git
-cd task-management-dashboard
+git clone https://github.com/PraveenNagaraj77/Task-Management-Dashboard.git
+cd Task-Management-Dashboard
