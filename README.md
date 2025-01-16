@@ -116,7 +116,21 @@ The **Task Management Dashboard** uses a mock REST API for managing tasks. The f
 
 To run the project locally, follow these steps:
 
-### 1. Clone the repository:
+## How to Run the Application
+
+Follow the steps below to set up and run the project:
+
 ```bash
+# 1. Clone the repository
 git clone https://github.com/PraveenNagaraj77/Task-Management-Dashboard.git
 cd Task-Management-Dashboard
+
+# 2. Navigate to the client directory
+cd client
+
+# 3. Start the JSON server
+# (Ensure json-server is installed globally using: npm install -g json-server)
+json-server --watch db.json --port 5000
+
+# 4. Start the React development server
+npm run dev
