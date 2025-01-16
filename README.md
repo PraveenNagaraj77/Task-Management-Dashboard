@@ -12,7 +12,7 @@ The **Task Management Dashboard** is a web application built with **React** and 
 
 ---
 
-###Screenshot : 
+### Screenshot : 
 
 ![image](https://github.com/user-attachments/assets/9a9269d3-85cd-4510-9c90-262bb9c1b0c1)
 
