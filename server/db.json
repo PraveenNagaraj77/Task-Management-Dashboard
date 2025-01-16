@@ -26,8 +26,8 @@
     },
     {
       "id": "5",
-      "title": "Task 5: Design Frontend Components",
-      "description": "Design the React components for the task management dashboard.",
+      "title": "Task 5: Set Up Frontend Project",
+      "description": "Set up the React project for the frontend of the task management application.",
       "status": "In Progress"
     },
     {
